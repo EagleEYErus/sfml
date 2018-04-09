@@ -251,3 +251,6 @@ $RECYCLE.BIN/
 
 
 # End of https://www.gitignore.io/api/windows
+
+lesson_05_homework/submission/*
+lesson_05_homework/*.csv
